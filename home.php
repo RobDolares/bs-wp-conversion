@@ -9,7 +9,7 @@
                 <div class="site-heading">
                     <h1>Robert Howington</h1>
                     <hr class="small">
-                    <span class="subheading">"Enough about me, let's talk about...me?"</span>
+                    <span class="subheading">Field Notes</span>
                 </div>
             </div>
         </div>
